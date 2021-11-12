@@ -5,7 +5,7 @@ It includes a feature to create successive clips from a file (like fido_a, fido_
 It calls the external ffmpeg program to create the clips.
 
 INSTALLATION:
-Put the file in the VLC subdir /lua/extensions, by default:
+Put the clipper2.lua file in the VLC subdir /lua/extensions, by default:
 * Windows (all users): %ProgramFiles%\VideoLAN\VLC\lua\extensions\
 * Windows (current user): %APPDATA%\VLC\lua\extensions\
 * Linux (all users): /usr/share/vlc/lua/extensions/
